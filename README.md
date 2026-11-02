@@ -13,7 +13,7 @@
     <a href="mailto:sasikaranpiraveen@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Piraveen17&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=sasikaranpiraveen&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
 </div>
 
@@ -54,7 +54,7 @@ I design AI workflows around a strict philosophy: <strong>let the model interpre
         <img src="https://img.shields.io/badge/Deterministic_Pricing-2DD4BF?style=flat-square&logoColor=white" alt="Deterministic Pricing" />
       </p>
       <p align="center">
-        <a href="https://piraveen17.github.io/Piraveen17/?scenario=kottu">
+        <a href="https://sasikaranpiraveen.github.io/Piraveen17/?scenario=kottu">
           <img src="https://img.shields.io/badge/▶_Try_the_Walkthrough-F59E0B?style=for-the-badge&logoColor=white" alt="Try the WhatsApp Order walkthrough" />
         </a>
       </p>
@@ -68,7 +68,7 @@ I design AI workflows around a strict philosophy: <strong>let the model interpre
         <img src="https://img.shields.io/badge/Supabase_RPC-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase RPC" />
       </p>
       <p align="center">
-        <a href="https://piraveen17.github.io/Piraveen17/?scenario=admin_rag">
+        <a href="https://sasikaranpiraveen.github.io/Piraveen17/?scenario=admin_rag">
           <img src="https://img.shields.io/badge/▶_Try_the_Walkthrough-F59E0B?style=for-the-badge&logoColor=white" alt="Try the Car Rental AI assistant walkthrough" />
         </a>
       </p>
