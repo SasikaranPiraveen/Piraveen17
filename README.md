@@ -10,7 +10,7 @@
     <a href="https://piraveen-portfolio.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:piraveen1727@gmail.com">
+    <a href="mailto:sasikaranpiraveen@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=Piraveen17&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
@@ -249,7 +249,7 @@ I'm interested in thoughtful software engineering, AI-powered products, and coll
 
 <a href="https://www.linkedin.com/in/sasikaran-piraveen/">LinkedIn</a> ·
 <a href="https://piraveen-portfolio.vercel.app">Portfolio</a> ·
-<a href="mailto:piraveen1727@gmail.com">Email me</a>
+<a href="mailto:sasikaranpiraveen@gmail.com">Email me</a>
 
 </div>
 
